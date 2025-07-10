@@ -63,7 +63,7 @@ Pentru cuvintele `race`, `care`, `acre`:
 
 ##  Librării externe
 
-* Nu s-au folosit librării externe.
+* S-a folosit Junit 5 pentru testare a metodelor.
 * Proiectul se bazează doar pe bibliotecile standard din Java.
 
 ---
